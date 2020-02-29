@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My favorite language to code in is **C** but I find **Python** more useful with many of my _personal projects_.  
